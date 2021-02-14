@@ -17,4 +17,20 @@ body {
    * CSS image reference example.
    */
   background-image: url('./images/bg-pattern.png');
+  font-size: 30px;
+}
+
+.main-screen {
+  margin-left: 30%;
+  color: rgba(36, 32, 32, 0.644);
+}
+
+input {
+  font-size: 30px;
+  margin-right: 30px;
+  margin-left: 30%;
+}
+
+button {
+  font-size: 30px;
 }
